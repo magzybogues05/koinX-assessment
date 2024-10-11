@@ -1,7 +1,7 @@
 # KoinX Backend Assessment
 
 Here is the submission for KoinX backend assessment.
-
+Deployed backend link: https://koinx-assessment-shivamgupta.onrender.com/
 
 # Tasks
 
