@@ -85,6 +85,10 @@ app.get('/deviation', async (req, res) => {
     }
 });
 
+app.get('/',(req,res)=>{
+    res.send("Hello! This is backend for KoinX submission. kindly go to /stats or /deviation to query");
+})
+
 app.listen(3000, () => {
     console.log('Server running on port 3000');
 });
